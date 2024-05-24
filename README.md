@@ -1,2 +1,2 @@
 # Loan-predicition
-i am used kaggle based dataset for loan term deposit prediction with predicting output like who have alreday subscribed loan or not here i am using EDA,DATA VISULIZATION,LABEL ENCODING,DATA SCALING , MODEL IMPLEMENTATION. and then last prediction.
+I utilized a Kaggle dataset for predicting loan term deposit subscriptions, focusing on whether individuals have already subscribed to a loan. My approach included Exploratory Data Analysis (EDA), data visualization, label encoding, data scaling, and model implementation, culminating in making predictions.
